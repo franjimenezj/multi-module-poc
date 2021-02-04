@@ -2,3 +2,5 @@
 /.idea/
 /application/.idea/
 *.iml
+/library/target/
+/application/target/
