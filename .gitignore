@@ -1,1 +1,4 @@
 /library/.idea/
+/.idea/
+/application/.idea/
+*.iml
